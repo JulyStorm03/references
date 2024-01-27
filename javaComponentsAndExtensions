@@ -1,0 +1,13 @@
+JFrame is a top-level container.
+
+JFrame.
+
+public PrimaryLayout(){
+
+    
+
+    setDefaultCloserOperation(JFrame.EXIT_ON_CLOSE);
+}
+
+JDialog.
+

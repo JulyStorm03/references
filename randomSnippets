@@ -1,0 +1,3 @@
+JButton button = new JButton("Press");
+
+frame.getContentPane().add(button); // Adds Button to content pane of frame

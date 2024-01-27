@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="35C1E839-CC38-42E5-A0AB-B0299D6AB301" Version="1.2">
+   <Notes>
+      <Note FontSize="12" Width="211.644" ID="0" Position="418.0,504.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>AI powered web extension that lets me highlight text in videos. With a right click, I enable the AI, it highlights text within the video and draws bubbles around them (like google lens), then it lets the user freely copy any of the highlighted text.</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="28.1687" ID="1" Position="518.7,446.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>AI</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="57.4219" ID="2" Position="477.0,61.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>socraph</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="122.266" ID="3" Position="456.2,126.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>socraph standalone
+
+socraph offline</String>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="96.4844" ID="4" Position="276.2,36.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>socraph fission</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="128.516" ID="5" Position="228.7,105.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>a socraph framework
+
+a socraph library
+
+</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="6" Position="48.7,128.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>website_unnamed:
+
+A website that keeps a live feed of node packages. It shows latest and oldest version of node the packages support
+
+(so how Angular doesn’t support node 20, but it does support (whatever the latest version it supports is), but it doesn’t support node 13. -></String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="141.797" ID="7" Position="36.8,40.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>for the sake of intuitivity</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="8" Position="791.7,21.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>a tool that lets you edit your wallpaper. It acts as its own wallpaper,. To make a change, you press ctrl-g(or whatever  keybind you set)</String>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="9" Position="270.4,274.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>built in tier list
+
+wastelands(extension, communities, </String>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="10" Position="111.6,438.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>a desktop application(or tool) that allows you to move multiple windows at the same time. It’s similar to selecting multiple icons and moving them. You could right-click and hit “socrpah editor mode: windows rearrangement”</String>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="11" Position="798.6,312.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>the ability to append specific sites from search results.</String>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="12" Position="899.9,573.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>socraphIDE
+
+An IDE with a mindmap layout. This will make development easier</String>
+      </Note>
+   </Notes>
+   <AutoFit>2-5, 7</AutoFit>
+   <NoteStyles>
+      <Style AffectFade="No" AffectTextColor="No" Name="Title Text" AffectAlignment="Yes" AffectSize="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectFontStyle="Yes" AffectSticky="No" AffectNoteBody="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectFade="No" AffectTextColor="No" Name="Bubble (Yellow)" AffectAlignment="No" AffectSize="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectFontStyle="No" AffectSticky="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectTextColor="No" Name="Bubble (Green)" AffectAlignment="No" AffectSize="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectFontStyle="No" AffectSticky="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectTextColor="No" Name="Bubble (Blue)" AffectAlignment="No" AffectSize="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectFontStyle="No" AffectSticky="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectTextColor="No" Name="Bubble (Red)" AffectAlignment="No" AffectSize="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectFontStyle="No" AffectSticky="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectTextColor="No" Name="Bubble (Pink)" AffectAlignment="No" AffectSize="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectFontStyle="No" AffectSticky="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectTextColor="Yes" Name="Red Text" AffectAlignment="No" AffectSize="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectFontStyle="No" AffectSticky="No" AffectNoteBody="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings HorizontallyCentered="Yes" HorizontalPagination="Clip" VerticallyCentered="Yes" TopMargin="12.000000" RightMargin="12.000000" PagesDown="1" VerticalPagination="Auto" PaperType="na-letter" Orientation="Portrait" PaperSize="-1.000000,-1.000000" PagesAcross="1" Collates="Yes" BottomMargin="12.000000" LeftMargin="12.000000" ScaleFactor="1.000000"/>
+</ScappleDocument>

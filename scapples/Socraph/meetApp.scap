@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="80206CCF-8606-4967-A431-248665FB2D2A" Version="1.2">
+   <Notes>
+      <Note Position="50.8,66.5" ID="0" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>a meetup app that groups 4-6 people together.
+
+features:
+1. the first two matches, and each subsequent matches can unanimously vote to bring in the next potential member.
+
+2. there can be an online or geographical mode
+
+3. you can search for members via catagories.
+a. catagory matches can still be randomized.
+
+ </String>
+      </Note>
+      <Note Position="28.1,560.2" ID="1" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>a login form translates the data entered into a json file. Components of the json file are then called upon and displayed as deisred. Usually components like age, </String>
+      </Note>
+      <Note Position="44.5,770.4" ID="2" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>As naming topics becomes more difficult, it would be nice to be able to have a layed interface. The front-most one receives data, automatically configures it  or lets you manually nofigure it for the middle layer</String>
+      </Note>
+   </Notes>
+   <NoteStyles>
+      <Style AffectAlignment="No" AffectFontStyle="No" Name="Bubble (Pink)" AffectSticky="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectNoteBody="Yes" AffectFade="No" AffectSize="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectFontStyle="No" Name="Bubble (Green)" AffectSticky="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectNoteBody="Yes" AffectFade="No" AffectSize="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectFontStyle="No" Name="Red Text" AffectSticky="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectNoteBody="No" AffectFade="No" AffectSize="No" AffectTextColor="Yes">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectAlignment="No" AffectFontStyle="No" Name="Bubble (Blue)" AffectSticky="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectNoteBody="Yes" AffectFade="No" AffectSize="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectAlignment="Yes" AffectFontStyle="Yes" Name="Title Text" AffectSticky="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectNoteBody="No" AffectFade="No" AffectSize="No" AffectTextColor="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectAlignment="No" AffectFontStyle="No" Name="Bubble (Yellow)" AffectSticky="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectNoteBody="Yes" AffectFade="No" AffectSize="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectFontStyle="No" Name="Bubble (Red)" AffectSticky="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectNoteBody="Yes" AffectFade="No" AffectSize="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings HorizontalPagination="Clip" HorizontallyCentered="Yes" PagesAcross="1" PaperSize="-1.000000,-1.000000" Orientation="Portrait" BottomMargin="12.000000" LeftMargin="12.000000" VerticallyCentered="Yes" PaperType="na-letter" TopMargin="12.000000" Collates="Yes" VerticalPagination="Auto" ScaleFactor="1.000000" RightMargin="12.000000" PagesDown="1"/>
+</ScappleDocument>

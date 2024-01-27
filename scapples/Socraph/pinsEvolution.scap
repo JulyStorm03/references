@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="A67F809F-72CB-4524-A130-A51AD04A68DE">
+   <Notes>
+      <Note FontSize="12" ID="0" Position="40.6,34.4" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>you take the pins technology, and you apply them to multiple instances of the same, or very similar, technologies.</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="1" Position="235.9,34.4" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>search engine example. You pin to the different search engines then you make a search inquiry that is entered into all of them at the same time. 
+
+With the click of a button, you navigate down to your current session, and you click on your preferred instance which you can favorite.</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="2" Position="576.6,61.8" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>virtual reality where you can be characters in shows, feel what they feel, experience their pain adn more</String>
+      </Note>
+   </Notes>
+   <NoteStyles>
+      <Style AffectAlignment="No" AffectNoteBody="Yes" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectSize="No" AffectFontStyle="No" AffectSticky="No" AffectTextColor="No" AffectFade="No" Name="Bubble (Blue)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectNoteBody="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectSize="No" AffectFontStyle="No" AffectSticky="No" AffectTextColor="Yes" AffectFade="No" Name="Red Text">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectAlignment="No" AffectNoteBody="Yes" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectSize="No" AffectFontStyle="No" AffectSticky="No" AffectTextColor="No" AffectFade="No" Name="Bubble (Yellow)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectNoteBody="Yes" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectSize="No" AffectFontStyle="No" AffectSticky="No" AffectTextColor="No" AffectFade="No" Name="Bubble (Red)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectAlignment="Yes" AffectNoteBody="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectSize="No" AffectFontStyle="Yes" AffectSticky="No" AffectTextColor="No" AffectFade="No" Name="Title Text">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectAlignment="No" AffectNoteBody="Yes" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectSize="No" AffectFontStyle="No" AffectSticky="No" AffectTextColor="No" AffectFade="No" Name="Bubble (Pink)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectNoteBody="Yes" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectSize="No" AffectFontStyle="No" AffectSticky="No" AffectTextColor="No" AffectFade="No" Name="Bubble (Green)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings HorizontallyCentered="Yes" LeftMargin="12.000000" Collates="Yes" PagesDown="1" BottomMargin="12.000000" VerticalPagination="Auto" RightMargin="12.000000" PaperType="na-letter" ScaleFactor="1.000000" PaperSize="-1.000000,-1.000000" TopMargin="12.000000" PagesAcross="1" Orientation="Portrait" HorizontalPagination="Clip" VerticallyCentered="Yes"/>
+</ScappleDocument>
