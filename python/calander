@@ -1,0 +1,7 @@
+import calender as doy;
+
+def dayOfTheYear():
+    a = 365
+    b = doy
+    c = int(input("birthday"))
+    d = 
