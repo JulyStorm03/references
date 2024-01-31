@@ -1,0 +1,35 @@
+<!-- intro
+
+most popular
+
+-json for webData
+
+-xml for desktop app webData
+
+
+less used
+
+-RDF can be stored in xml and json
+
+-CSV(comma seperated files)
+
+
+others
+
+-html
+
+-plain text
+
+-spreadsheets
+
+-->
+
+<!--linkedInLearning/Ex_Files_Intro_To_Web_APIs02_02_connect
+
+XHR(XMLHttpRequest) allows you to make http requests in any format. 
+
+jQuery allows you to simply write a get ($.get(http.request) method in order to make an an http request.
+
+fetch is built on promises, and is a chain of events. You make an http request with the fetch method, then you use .then and convert information to json using the .json method before using .then again and display the response data (see linkedInLearning/02_02_connect/fetch for an example)
+
+-->
