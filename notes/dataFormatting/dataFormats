@@ -33,3 +33,4 @@ jQuery allows you to simply write a get ($.get(http.request) method in order to 
 fetch is built on promises, and is a chain of events. You make an http request with the fetch method, then you use .then and convert information to json using the .json method before using .then again and display the response data (see linkedInLearning/02_02_connect/fetch for an example)
 
 -->
+
