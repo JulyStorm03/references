@@ -23,16 +23,6 @@ console.log(doorStatus(openedDoor))
 
 
 
-
-
-
-
-
-
-
-
-
-
 const methodsAndFunctions = {
     functionExample: function(a,b){
         this.functionExample.a = "parameterA";
