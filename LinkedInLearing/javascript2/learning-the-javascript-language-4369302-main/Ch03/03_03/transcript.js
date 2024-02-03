@@ -13,11 +13,11 @@ bird.quote;
 
 bird."quote"; // this does not work
 
-bird["quote"];
+bird["quote"]; //this does apparently
 
-bird.color = "black";
+bird.color = "black"; //sets bird color to black within the bird object
 
-bird;
+bird; //logs bird to terminal
 
 bird["where it lives"] = "in a tree";
 bird.whereItLives = "in a tree";
