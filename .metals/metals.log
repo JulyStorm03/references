@@ -1,0 +1,10 @@
+2024.02.04 22:52:15 INFO  Started: Metals version 1.2.0 in folders 'C:\socraph\references' for client Visual Studio Code 1.86.0.
+2024.02.04 22:52:17 WARN  Build server is not auto-connectable.
+2024.02.04 22:52:17 WARN  no build tool detected in workspace 'C:\socraph\references'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.02.04 22:52:17 WARN  no build target for: C:\socraph\references\scala\some.scala
+2024.02.04 22:52:23 INFO  no build target found for C:\socraph\references\scala\some.scala. Using presentation compiler with project's scala-library version: 3.3.1
+Feb 04, 2024 10:54:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.02.04 22:55:13 INFO  Shutting down server
+2024.02.04 22:55:13 INFO  shutting down Metals
+2024.02.04 22:55:13 INFO  Exiting server
