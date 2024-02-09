@@ -22,4 +22,6 @@ fetch('https://api.giphy.com/v1/gifs/random?api_key=sx9mONTdDdUXfAio5rL6GkwlYO2Q
 		document.body.appendChild(title);
 	})
 
+//in java script, you function() is an attribute like pythons def
+
 
