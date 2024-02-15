@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\socraph\\references\\app\\csharp_gui_practice\\textbox\\textbox\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\textbox.bundle.scp.css",
+      "PackagePath": "staticwebassets\\textbox.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\socraph\\references\\app\\csharp_gui_practice\\textbox\\textbox\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\socraph\\references\\app\\csharp_gui_practice\\textbox\\textbox\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\socraph\\references\\app\\csharp_gui_practice\\textbox\\textbox\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\socraph\\references\\app\\csharp_gui_practice\\textbox\\textbox\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.textbox.props",
+      "PackagePath": "build\\textbox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.textbox.props",
+      "PackagePath": "buildMultiTargeting\\textbox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.textbox.props",
+      "PackagePath": "buildTransitive\\textbox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.textbox.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
