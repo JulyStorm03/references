@@ -1,7 +1,0 @@
-﻿<Application
-    x:Class="soc_build_one.App"
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:soc_build_one">
-
-</Application>
