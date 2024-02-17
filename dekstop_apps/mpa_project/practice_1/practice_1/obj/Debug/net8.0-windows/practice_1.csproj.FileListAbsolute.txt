@@ -19,3 +19,6 @@ C:\socraph\references\dekstop_apps\mpa_project\practice_1\practice_1\obj\Debug\n
 C:\socraph\references\dekstop_apps\mpa_project\practice_1\practice_1\obj\Debug\net8.0-windows\practice_1.pdb
 C:\socraph\references\dekstop_apps\mpa_project\practice_1\practice_1\obj\Debug\net8.0-windows\practice_1.genruntimeconfig.cache
 C:\socraph\references\dekstop_apps\mpa_project\practice_1\practice_1\obj\Debug\net8.0-windows\ref\practice_1.dll
+C:\notes\references\dekstop_apps\mpa_project\practice_1\practice_1\obj\Debug\net8.0-windows\practice_1.dll
+C:\notes\references\dekstop_apps\mpa_project\practice_1\practice_1\obj\Debug\net8.0-windows\refint\practice_1.dll
+C:\notes\references\dekstop_apps\mpa_project\practice_1\practice_1\obj\Debug\net8.0-windows\practice_1.pdb

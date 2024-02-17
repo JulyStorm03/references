@@ -14,7 +14,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 339,
+      "VerticalTabListWidth": 145,
       "DocumentGroups": [
         {
           "DockedWidth": 100,
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "practice_1\\MainWindow.xaml",
               "ToolTip": "C:\\notes\\references\\dekstop_apps\\mpa_project\\practice_1\\practice_1\\MainWindow.xaml",
               "RelativeToolTip": "practice_1\\MainWindow.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-02-17T19:32:04.401Z",
               "EditorCaption": ""
