@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("signup_form")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f624c12e75c6e65c51b865c115cca7a72f4b48c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4cb92f46162bb6b2ec1a9b5f163de04372c65b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("signup_form")]
 [assembly: System.Reflection.AssemblyTitleAttribute("signup_form")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
