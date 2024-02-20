@@ -6,19 +6,8 @@
         xmlns:local="clr-namespace:mvp_basic_outline"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <DockPanel LastChildFill="False" RenderTransformOrigin="0.5,0.5">
-            <DockPanel.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="0.027"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </DockPanel.RenderTransform>
-        </DockPanel>
-        
-        
 
+    <Grid>
+        
     </Grid>
 </Window>

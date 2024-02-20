@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mvp_basic_outline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+802afa82b15fc3da59fa4984702ae2ba6db46765")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f624c12e75c6e65c51b865c115cca7a72f4b48c")]
 [assembly: System.Reflection.AssemblyProductAttribute("mvp_basic_outline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mvp_basic_outline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

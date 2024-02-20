@@ -1,0 +1,53 @@
+﻿<Window x:Class="signup_form.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:signup_form"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Border Padding="10">
+    <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Margin="0 0 10 0" Grid.Column="0" Content="Button"/>
+                <Button Margin="0 0 10 0" Grid.Column="1" Content="Button"/>
+                <Button Margin="0 0 10 0" Grid.Column="2" Content="Button"/>
+            </Grid>
+        
+        <!--intermediary open-->
+
+            <TextBlock Text="Bold text" FontWeight="Bold" Margin="0 10 0 0"/>
+
+            <TextBlock Text="Description"/>
+            <TextBox Padding="2"/>
+
+            <!--intermediary closed-->
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0">
+                    <TextBlock Text="Status"/>
+                    <TextBox Padding="2"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1">
+                    <TextBlock Text="Revision"/>
+                    <TextBox Padding="2"/>
+                </StackPanel>
+            </Grid>
+
+        </StackPanel>
+    </Border>
+    
+</Window>
