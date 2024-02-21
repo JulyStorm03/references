@@ -19,3 +19,7 @@ C:\notes\references\practice\wpf\signup_form\signup_form\obj\Debug\net8.0-window
 C:\notes\references\practice\wpf\signup_form\signup_form\obj\Debug\net8.0-windows\signup_form.pdb
 C:\notes\references\practice\wpf\signup_form\signup_form\obj\Debug\net8.0-windows\signup_form.genruntimeconfig.cache
 C:\notes\references\practice\wpf\signup_form\signup_form\obj\Debug\net8.0-windows\ref\signup_form.dll
+C:\notes\references\practice\wpf\signup_form\signup_form\obj\Debug\net8.0-windows\controls\user_controls\UserControl1.g.cs
+C:\notes\references\practice\wpf\signup_form\signup_form\obj\Debug\net8.0-windows\pages\Page1.g.cs
+C:\notes\references\practice\wpf\signup_form\signup_form\obj\Debug\net8.0-windows\controls\user_controls\UserControl1.baml
+C:\notes\references\practice\wpf\signup_form\signup_form\obj\Debug\net8.0-windows\pages\Page1.baml

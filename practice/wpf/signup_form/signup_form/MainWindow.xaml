@@ -7,47 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 
-    <Border Padding="10">
-    <StackPanel>
-            <Grid>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="*"/>
-                </Grid.ColumnDefinitions>
+    <Grid>
+        <TextBlock Name="tbStatus" FontSize="50"/>
+        <Button Name="btnToggleRun" Width="100" Height="50" VerticalAlignment="Center" HorizontalAlignment="Center" Content="Run" FontSize="20" Click="btnToggleRun_Click"/>
+    </Grid>
 
-                <Button Margin="0 0 10 0" Grid.Column="0" Content="Button"/>
-                <Button Margin="0 0 10 0" Grid.Column="1" Content="Button"/>
-                <Button Margin="0 0 10 0" Grid.Column="2" Content="Button"/>
-            </Grid>
-        
-        <!--intermediary open-->
-
-            <TextBlock Text="Bold text" FontWeight="Bold" Margin="0 10 0 0"/>
-
-            <TextBlock Text="Description"/>
-            <TextBox Padding="2"/>
-
-            <!--intermediary closed-->
-
-            <Grid>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="2"/>
-                    <ColumnDefinition Width="*"/>
-                </Grid.ColumnDefinitions>
-
-                <StackPanel Grid.Column="0">
-                    <TextBlock Text="Status"/>
-                    <TextBox Padding="2"/>
-                </StackPanel>
-
-                <StackPanel Grid.Column="1">
-                    <TextBlock Text="Revision"/>
-                    <TextBox Padding="2"/>
-                </StackPanel>
-            </Grid>
-
-        </StackPanel>
-    </Border>
-    
 </Window>

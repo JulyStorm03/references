@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\notes\references\practice\wpf\signup_form\signup_form\App.xaml
-11407045341
+31969336479
 
-4-34937693
+61180782444
 1981451641563
-MainWindow.xaml;
+controls\user_controls\UserControl1.xaml;MainWindow.xaml;pages\Page1.xaml;
 
 False
 
