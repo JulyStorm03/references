@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("signup_form")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("mvp_basic_outline")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+632eb0b9c5b03504fea5f2b7cbc9ffd9efa0efcd")]
-[assembly: System.Reflection.AssemblyProductAttribute("signup_form")]
-[assembly: System.Reflection.AssemblyTitleAttribute("signup_form")]
+[assembly: System.Reflection.AssemblyProductAttribute("mvp_basic_outline")]
+[assembly: System.Reflection.AssemblyTitleAttribute("mvp_basic_outline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
