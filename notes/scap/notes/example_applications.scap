@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="A316AC6C-F982-438D-A934-327A035C8071">
+   <Notes>
+      <Note ID="0" FontSize="12" Width="53.5156" Position="45.0,311.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>chatgpt</String>
+         <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
+      </Note>
+      <Note ID="1" FontSize="12" Width="156.25" Position="181.3,297.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>new chats create new tabs</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note ID="2" FontSize="12" Width="57.4219" Position="52.8,456.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>youtube</String>
+         <ConnectedNoteIDs>0, 3, 5</ConnectedNoteIDs>
+      </Note>
+      <Note ID="3" FontSize="12" Width="156.25" Position="179.6,411.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>Basically everything is stationary.
+
+
+
+sidepanel: 
+-Every tab takes you to a new page.
+
+-</String>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+      </Note>
+      <Note ID="4" FontSize="12" Width="22.2656" Position="601.2,95.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.</String>
+      </Note>
+      <Note ID="5" FontSize="12" Width="63.6719" Position="70.0,609.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>facebook</String>
+         <ConnectedNoteIDs>2, 6-7</ConnectedNoteIDs>
+      </Note>
+      <Note ID="6" FontSize="12" Width="156.25" Position="173.5,609.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>when creating a post, a textbox is created.  You can decorate the post </String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note ID="7" FontSize="12" Width="40.2344" Position="77.1,711.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>gitub</String>
+         <ConnectedNoteIDs>5, 8</ConnectedNoteIDs>
+      </Note>
+      <Note ID="8" FontSize="12" Width="156.25" Position="157.2,711.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note ID="9" FontSize="12" Width="156.25" Position="42.7,205.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>New Note</String>
+      </Note>
+   </Notes>
+   <AutoFit>0, 2, 5, 7</AutoFit>
+   <NoteStyles>
+      <Style Name="Bubble (Red)" AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" AffectAlignment="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style Name="Bubble (Yellow)" AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" AffectAlignment="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style Name="Bubble (Blue)" AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" AffectAlignment="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style Name="Bubble (Green)" AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" AffectAlignment="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style Name="Bubble (Pink)" AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" AffectAlignment="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style Name="Title Text" AffectNoteBody="No" AffectSticky="No" AffectFontStyle="Yes" AffectFade="No" AffectSize="No" AffectAlignment="Yes" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectTextColor="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style Name="Red Text" AffectNoteBody="No" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" AffectAlignment="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectTextColor="Yes">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings LeftMargin="12.000000" RightMargin="12.000000" PaperType="na-letter" HorizontallyCentered="Yes" VerticallyCentered="Yes" PaperSize="-1.000000,-1.000000" VerticalPagination="Auto" Collates="Yes" TopMargin="12.000000" BottomMargin="12.000000" PagesAcross="1" ScaleFactor="1.000000" PagesDown="1" Orientation="Portrait" HorizontalPagination="Clip"/>
+</ScappleDocument>

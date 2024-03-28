@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="E406D6C6-8163-4C6E-BBD5-C2F8ADD7AA62" Version="1.2">
+   <Notes>
+      <Note Width="424.219" FontSize="12" Position="3.1,21.9" ID="0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Alter database test1 modify name= —newDatabaseName —changes sql name to testOC</String>
+      </Note>
+      <Note Width="247.681" FontSize="12" Position="2.3,64.1" ID="1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Drop database testOC —deletes database</String>
+      </Note>
+      <Note Width="146.484" FontSize="12" Position="1.6,106.3" ID="2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Create database testOD</String>
+      </Note>
+      <Note Width="74.6094" FontSize="12" Position="28.1,186.8" ID="3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>subqueries</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" Position="28.1,246.9" ID="4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note Width="73.0469" FontSize="12" Position="37.5,329.0" ID="5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>constraints</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" Position="37.5,389.1" ID="6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Unique constraint ensures that all values in a column are different</String>
+         <ConnectedNoteIDs>5, 7-8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="271.094" FontSize="12" Position="231.2,392.2" ID="7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Alter Table table-name
+Add Constraint constraint-name
+Unique(column-name)</String>
+         <ConnectedNoteIDs>6, 10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" Position="37.5,479.0" ID="8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Check constraint ensures that all values in a column satisfy a certain condition.
+
+examples: 
+-making sure an age is above a certain number
+
+-making sure a password reaches a minimum number of characters. This constraint can contain multiple perameters, so the constraint can also check for special characters, upper and lower-cases, and more(not that entering user passwords into a database is good practice).</String>
+         <ConnectedNoteIDs>6, 9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" Position="232.8,479.0" ID="9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="271.094" FontSize="12" Position="541.4,392.2" ID="10">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>example 1:
+
+Use company
+Go
+
+Alter Table Employees
+Add Constraint Unique_Employee
+Unique(EmployeeID, Phone)
+
+Insert Into Employees
+(EmployeeID, EmployeeName, Phone, DepID, Religion)
+Values(1007, 'Bob', 1834639987, 1, 'Cock')</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="51.1719" FontSize="12" Position="1247.7,296.7" ID="11">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>update</String>
+         <ConnectedNoteIDs>12-13, 16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="421.662" FontSize="12" Position="1338.9,281.4" ID="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Use Company
+Go
+
+Update Employees
+Set EmployeeName=’Frank’, phone= 39739479
+Where EmployeeID=1001</String>
+         <ConnectedNoteIDs>11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="49.6094" FontSize="12" Position="1246.7,415.2" ID="13">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Delete</String>
+         <ConnectedNoteIDs>11, 14</ConnectedNoteIDs>
+      </Note>
+      <Note Width="423.047" FontSize="12" Position="1336.1,415.2" ID="14">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Row:
+
+Delete —tablename
+Where EmployeeID= —EmployeeID</String>
+         <ConnectedNoteIDs>13, 18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="43.3594" FontSize="12" Position="1251.9,78.0" ID="15">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Insert</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="53.5156" FontSize="12" Position="1249.8,147.5" ID="16">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Update</String>
+         <ConnectedNoteIDs>11, 15</ConnectedNoteIDs>
+      </Note>
+      <Note Width="48.8281" FontSize="12" Position="591.7,683.6" ID="17">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Select</String>
+         <ConnectedNoteIDs>20, 28</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" Position="1803.0,403.5" ID="18">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Column
+
+Alter Table —tableName Drop Column —columnName</String>
+         <ConnectedNoteIDs>14, 19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="126.172" FontSize="12" Position="1998.3,403.5" ID="19">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Table:
+
+Delete —tableName</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="453.279" FontSize="12" Position="721.8,683.6" ID="20">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>1.
+
+Select —column 1, column 2, column 3…column n— from —tableName</String>
+         <ConnectedNoteIDs>17, 24</ConnectedNoteIDs>
+      </Note>
+      <Note Width="105.078" FontSize="12" Position="187.7,809.0" ID="21">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>&lt;> = not equal to
+</String>
+      </Note>
+      <Note Width="87.8906" FontSize="12" Position="897.4,409.8" ID="22">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>And
+
+OR
+
+IN
+Exist
+NOT EXISTS
+Disting</String>
+         <ConnectedNoteIDs>23</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" Position="1059.7,411.1" ID="23">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Select * from Person.person
+Where BusinessEntityID IN (1,2,5)</String>
+         <ConnectedNoteIDs>22</ConnectedNoteIDs>
+      </Note>
+      <Note Width="453.279" FontSize="12" Position="1214.1,683.6" ID="24">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Top:
+
+Select Top 20 * from —tableName</String>
+         <ConnectedNoteIDs>20, 25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="453.279" FontSize="12" Position="1214.1,773.4" ID="25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Order By:
+
+Order By —column ASC
+
+Order By —column DESC</String>
+         <ConnectedNoteIDs>24</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" Position="1048.6,959.7" ID="27">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>2. Order
+3. Trim
+4. Disctinct 
+5. Math
+6. Convert
+7. Alias
+8.Data
+9. Subqueries
+10. Top
+11. Join
+12. Case
+14. Union
+13. Like
+15. Group By</String>
+      </Note>
+      <Note Width="44.9219" FontSize="12" Position="591.7,743.8" ID="28">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Order</String>
+         <ConnectedNoteIDs>17, 29</ConnectedNoteIDs>
+      </Note>
+      <Note Width="61.3281" FontSize="12" Position="591.7,803.9" ID="29">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Disctinct</String>
+         <ConnectedNoteIDs>28, 30</ConnectedNoteIDs>
+      </Note>
+      <Note Width="41.0156" FontSize="12" Position="591.7,864.1" ID="30">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Math</String>
+         <ConnectedNoteIDs>29, 31</ConnectedNoteIDs>
+      </Note>
+      <Note Width="57.4219" FontSize="12" Position="591.7,924.2" ID="31">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Convert</String>
+         <ConnectedNoteIDs>30, 32</ConnectedNoteIDs>
+      </Note>
+      <Note Width="41.7969" FontSize="12" Position="591.7,984.4" ID="32">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Alias</String>
+         <ConnectedNoteIDs>31, 33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="40.2344" FontSize="12" Position="591.7,1044.5" ID="33">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Data</String>
+         <ConnectedNoteIDs>32, 34</ConnectedNoteIDs>
+      </Note>
+      <Note Width="77.7344" FontSize="12" Position="591.7,1104.7" ID="34">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Subqueries</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="37.1094" FontSize="12" Position="591.7,1225.0" ID="36">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Join</String>
+         <ConnectedNoteIDs>37</ConnectedNoteIDs>
+      </Note>
+      <Note Width="43.3594" FontSize="12" Position="591.7,1285.2" ID="37">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Case</String>
+         <ConnectedNoteIDs>36, 38</ConnectedNoteIDs>
+      </Note>
+      <Note Width="47.2656" FontSize="12" Position="591.7,1345.3" ID="38">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Union</String>
+         <ConnectedNoteIDs>37, 39</ConnectedNoteIDs>
+      </Note>
+      <Note Width="37.1094" FontSize="12" Position="591.7,1405.5" ID="39">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Like</String>
+         <ConnectedNoteIDs>38, 40</ConnectedNoteIDs>
+      </Note>
+      <Note Width="66.0156" FontSize="12" Position="591.7,1465.6" ID="40">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Group By</String>
+         <ConnectedNoteIDs>39</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>2-3, 5, 11, 13, 15-17, 19, 21-22, 28-34, 36-40</AutoFit>
+   <NoteStyles>
+      <Style AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" AffectNoteBody="Yes" Name="Bubble (Green)" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectFontStyle="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" AffectNoteBody="Yes" Name="Bubble (Red)" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectFontStyle="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" AffectNoteBody="Yes" Name="Bubble (Yellow)" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectFontStyle="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" AffectNoteBody="Yes" Name="Bubble (Blue)" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectFontStyle="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectAlignment="Yes" AffectSticky="No" AffectSize="No" AffectFade="No" AffectNoteBody="No" Name="Title Text" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectFontStyle="Yes" AffectTextColor="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" AffectNoteBody="Yes" Name="Bubble (Pink)" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectFontStyle="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" AffectNoteBody="No" Name="Red Text" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectFontStyle="No" AffectTextColor="Yes">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings RightMargin="12.000000" BottomMargin="12.000000" LeftMargin="12.000000" PagesAcross="1" PaperSize="-1.000000,-1.000000" HorizontallyCentered="Yes" Orientation="Portrait" Collates="Yes" VerticalPagination="Auto" PaperType="na-letter" VerticallyCentered="Yes" ScaleFactor="1.000000" TopMargin="12.000000" HorizontalPagination="Clip" PagesDown="1"/>
+</ScappleDocument>

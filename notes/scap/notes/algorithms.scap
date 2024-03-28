@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="339780ED-FAAD-4DDE-9CB7-EB4915D9DE81">
+   <Notes>
+      <Note FontSize="12" Width="44.9219" ID="7" Position="81.1,19.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>reddit</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="8" Position="81.1,79.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>the importance of algorithms</String>
+         <ConnectedNoteIDs>7, 9</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="94.9219" ID="9" Position="276.4,79.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>data structures</String>
+         <ConnectedNoteIDs>8, 10-11</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="83.2031" ID="10" Position="276.4,140.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>graph theory</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="48.0469" ID="11" Position="410.4,79.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>arrays</String>
+         <ConnectedNoteIDs>9, 12</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="40.2344" ID="12" Position="497.5,79.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>uses</String>
+         <ConnectedNoteIDs>11, 13</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="13" Position="497.5,140.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="16.7969" ID="0" Position="682.2,59.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.</String>
+      </Note>
+      <Note FontSize="12" Width="660" ID="1" Position="6.7,577.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>.</String>
+      </Note>
+   </Notes>
+   <AutoFit>0, 7, 9-12</AutoFit>
+   <NoteStyles>
+      <Style Name="Bubble (Red)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style Name="Bubble (Blue)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style Name="Bubble (Green)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style Name="Bubble (Yellow)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style Name="Red Text" AffectAlignment="No" AffectFade="No" AffectTextColor="Yes" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectNoteBody="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style Name="Bubble (Pink)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style Name="Title Text" AffectAlignment="Yes" AffectFade="No" AffectTextColor="No" AffectFontStyle="Yes" AffectSize="No" AffectSticky="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectNoteBody="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings RightMargin="12.000000" Collates="Yes" ScaleFactor="1.000000" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes" HorizontallyCentered="Yes" TopMargin="12.000000" PagesAcross="1" BottomMargin="12.000000" PagesDown="1" HorizontalPagination="Clip" Orientation="Portrait" VerticalPagination="Auto" PaperType="na-letter"/>
+</ScappleDocument>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="1A4F15C1-681A-4C84-844A-A0374DB9E2DE">
+   <Notes>
+      <Note Position="196.1,71.9" Width="400.781" FontSize="12" ID="0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">839,33</FormatRange>
+            <FormatRange Bold="Yes">966,35</FormatRange>
+            <FormatRange Bold="Yes">1003,30</FormatRange>
+            <FormatRange Bold="Yes">1038,27</FormatRange>
+         </Formatting>
+         <String>.EXE and .BAT files are both types of executable files, but they serve different purposes and are created differently:
+
+1. **.EXE (Executable)**:
+   - .EXE files are compiled binary executables, meaning they contain machine code that the computer's processor can execute directly.
+   - They are typically compiled from high-level programming languages like C, C++, C#, or others.
+   - .EXE files can perform a wide range of tasks, from running software applications to executing system commands.
+   - They are standalone executables and can be run independently without needing an interpreter.
+
+2. **.BAT (Batch) Files**:
+   - .BAT files are script files written in the Windows batch scripting language.
+   - They contain a series of commands that are executed one after another by the Windows Command Prompt (cmd.exe).
+   - .BAT files are interpreted rather than compiled, meaning that the Command Prompt reads and executes each command line by line.
+   - They are primarily used for automating tasks, running command-line utilities, or configuring system settings.
+   - .BAT files are essentially text files with a list of commands, and they can be created and edited with a basic text editor like Notepad.
+
+In summary, .EXE files are compiled binaries capable of directly executing machine code, while .BAT files are script files interpreted by the Command Prompt to execute a series of commands.</String>
+      </Note>
+   </Notes>
+   <NoteStyles>
+      <Style Name="Bubble (Pink)" AffectFade="No" AffectSize="No" AffectSticky="No" AffectFontStyle="No" AffectTextColor="No" AffectAlignment="No" AffectNoteBody="Yes" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style Name="Bubble (Red)" AffectFade="No" AffectSize="No" AffectSticky="No" AffectFontStyle="No" AffectTextColor="No" AffectAlignment="No" AffectNoteBody="Yes" ID="3EE3090C-963A-4993-86B3-0FAB00468188">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style Name="Bubble (Yellow)" AffectFade="No" AffectSize="No" AffectSticky="No" AffectFontStyle="No" AffectTextColor="No" AffectAlignment="No" AffectNoteBody="Yes" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style Name="Red Text" AffectFade="No" AffectSize="No" AffectSticky="No" AffectFontStyle="No" AffectTextColor="Yes" AffectAlignment="No" AffectNoteBody="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style Name="Bubble (Green)" AffectFade="No" AffectSize="No" AffectSticky="No" AffectFontStyle="No" AffectTextColor="No" AffectAlignment="No" AffectNoteBody="Yes" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style Name="Title Text" AffectFade="No" AffectSize="No" AffectSticky="No" AffectFontStyle="Yes" AffectTextColor="No" AffectAlignment="Yes" AffectNoteBody="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style Name="Bubble (Blue)" AffectFade="No" AffectSize="No" AffectSticky="No" AffectFontStyle="No" AffectTextColor="No" AffectAlignment="No" AffectNoteBody="Yes" ID="40798A91-008B-45DC-94A6-E3BA82350C5D">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings HorizontalPagination="Clip" BottomMargin="12.000000" RightMargin="12.000000" PaperSize="-1.000000,-1.000000" PagesDown="1" VerticallyCentered="Yes" VerticalPagination="Auto" TopMargin="12.000000" Orientation="Portrait" Collates="Yes" PaperType="na-letter" PagesAcross="1" HorizontallyCentered="Yes" LeftMargin="12.000000" ScaleFactor="1.000000"/>
+</ScappleDocument>

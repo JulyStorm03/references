@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="31A65780-FC6E-4F43-930A-FE3F53AD60C9" Version="1.2">
+   <Notes>
+      <Note Position="75.0,11.0" Width="209.375" FontSize="12" ID="0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>finds sum of first n Natural Number
+
+int SumOfN(int n)
+{
+    int sum;
+    
+    sum=n*(n+1)/2;
+    
+    return sum;
+}</String>
+      </Note>
+   </Notes>
+   <NoteStyles>
+      <Style AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectTextColor="No" Name="Bubble (Blue)" AffectAlignment="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectNoteBody="No" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectTextColor="Yes" Name="Red Text" AffectAlignment="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectTextColor="No" Name="Bubble (Green)" AffectAlignment="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectTextColor="No" Name="Bubble (Pink)" AffectAlignment="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectTextColor="No" Name="Bubble (Red)" AffectAlignment="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectNoteBody="No" AffectSticky="No" AffectFontStyle="Yes" AffectFade="No" AffectSize="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectTextColor="No" Name="Title Text" AffectAlignment="Yes">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectNoteBody="Yes" AffectSticky="No" AffectFontStyle="No" AffectFade="No" AffectSize="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectTextColor="No" Name="Bubble (Yellow)" AffectAlignment="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings PagesAcross="1" Collates="Yes" PagesDown="1" LeftMargin="12.000000" RightMargin="12.000000" VerticalPagination="Auto" HorizontallyCentered="Yes" Orientation="Portrait" BottomMargin="12.000000" PaperType="na-letter" HorizontalPagination="Clip" ScaleFactor="1.000000" PaperSize="-1.000000,-1.000000" TopMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>

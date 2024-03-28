@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="16BA5CFA-B090-47B9-94A0-8B22417A42EB">
+   <Notes>
+      <Note FontSize="12" Width="100.391" ID="0" Position="46.9,88.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>mode rendering</String>
+         <ConnectedNoteIDs>1-3</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="1" Position="187.1,88.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>drive calls(inefficient apparently)</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="144.141" ID="2" Position="46.9,27.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>GUI notes(imgui based)</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="87.1094" ID="3" Position="46.9,148.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>vertex buffers</String>
+         <ConnectedNoteIDs>0, 4</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="130.078" ID="4" Position="46.9,208.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>state synchronization</String>
+         <ConnectedNoteIDs>3, 5</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="155.078" ID="5" Position="46.9,268.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>state storage on user side</String>
+         <ConnectedNoteIDs>4, 6</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="50.3906" ID="6" Position="46.9,328.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>ad hoc</String>
+         <ConnectedNoteIDs>5, 7</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="7" Position="46.9,388.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="8" Position="460.4,35.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>As Bruce MacLennan so beautifully wrote in his beautiful article “Values ​​and Objects in Programming Languages”, in 1982:
+
+Math is value oriented programming.
+Programming is object-oriented mathematics.</String>
+      </Note>
+      <Note FontSize="12" Width="72.2656" ID="9" Position="392.7,293.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>3/20/20/24</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="61.3281" ID="10" Position="392.7,353.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>question</String>
+         <ConnectedNoteIDs>9, 11</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="11" Position="493.1,353.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>What are some of the most complicated software applications </String>
+         <ConnectedNoteIDs>10, 12</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="12" Position="688.4,353.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>1. IBMs MVS(multiple virtual storage</String>
+         <ConnectedNoteIDs>11, 13-14</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="13" Position="877.5,203.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://en.wikipedia.org/wiki/MVS  Multiple" Underline="Yes" Bold="Yes">10,33</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/MVS  Multiple" Underline="Yes" Bold="Yes">45,8</FormatRange>
+            <FormatRange Bold="Yes">53,16</FormatRange>
+            <FormatRange Bold="Yes">92,3</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/Operating_system" Underline="Yes">123,16</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/System/370" Underline="Yes">147,10</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/System/390" Underline="Yes">159,10</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/IBM_Z" Underline="Yes">174,5</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/IBM_mainframes" Underline="Yes">180,23</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/OS/VS1" Underline="Yes">235,6</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/OS/VS2_(SVS)" Underline="Yes">246,3</FormatRange>
+            <FormatRange Link="https://en.wikipedia.org/wiki/OS/360_and_successors" Underline="Yes">269,6</FormatRange>
+         </Formatting>
+         <String>Wikipedia:https://en.wikipedia.org/wiki/MVS
+
+Multiple Virtual Storage, more commonly called MVS, is the most commonly used operating system on the System/370, System/390 and IBM Z IBM mainframe computers. IBM developed MVS, along with OS/VS1 and SVS, as a successor to OS/360.</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Width="156.25" ID="14" Position="688.4,428.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>0, 2-6, 9-10</AutoFit>
+   <NoteStyles>
+      <Style Name="Bubble (Red)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style Name="Bubble (Blue)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style Name="Bubble (Green)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style Name="Bubble (Yellow)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style Name="Red Text" AffectAlignment="No" AffectFade="No" AffectTextColor="Yes" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectNoteBody="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style Name="Bubble (Pink)" AffectAlignment="No" AffectFade="No" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectSticky="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style Name="Title Text" AffectAlignment="Yes" AffectFade="No" AffectTextColor="No" AffectFontStyle="Yes" AffectSize="No" AffectSticky="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectNoteBody="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings RightMargin="12.000000" Collates="Yes" ScaleFactor="1.000000" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes" HorizontallyCentered="Yes" TopMargin="12.000000" PagesAcross="1" BottomMargin="12.000000" PagesDown="1" HorizontalPagination="Clip" Orientation="Portrait" VerticalPagination="Auto" PaperType="na-letter"/>
+</ScappleDocument>

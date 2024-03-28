@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="CC734F7D-E1A4-42A0-A9B3-C4ED6CB49897">
+   <Notes>
+      <Note Width="156.25" Position="25.8,173.5" ID="0" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>the hambergurber menu in youtube expands information</String>
+         <ConnectedNoteIDs>1, 3</ConnectedNoteIDs>
+      </Note>
+      <Note Width="54.2969" Position="25.8,263.3" ID="1" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>explore</String>
+         <ConnectedNoteIDs>0, 2</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" Position="25.8,323.5" ID="2" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" Position="29.7,21.1" ID="3" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>youtube is not a single page application. Every tab in the hotdog menu is a link to that page.</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>1</AutoFit>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectSize="No" AffectTextColor="No" AffectSticky="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" Name="Bubble (Blue)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectTextColor="No" AffectSticky="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" Name="Bubble (Green)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectTextColor="No" AffectSticky="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" Name="Bubble (Yellow)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectTextColor="Yes" AffectSticky="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectFade="No" AffectNoteBody="No" AffectAlignment="No" Name="Red Text">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectTextColor="No" AffectSticky="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" Name="Bubble (Pink)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectSize="No" AffectTextColor="No" AffectSticky="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectFade="No" AffectNoteBody="No" AffectAlignment="Yes" Name="Title Text">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectTextColor="No" AffectSticky="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" Name="Bubble (Red)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings Orientation="Portrait" LeftMargin="12.000000" PaperType="na-letter" HorizontalPagination="Clip" PaperSize="-1.000000,-1.000000" HorizontallyCentered="Yes" PagesAcross="1" BottomMargin="12.000000" VerticallyCentered="Yes" Collates="Yes" PagesDown="1" VerticalPagination="Auto" ScaleFactor="1.000000" TopMargin="12.000000" RightMargin="12.000000"/>
+</ScappleDocument>

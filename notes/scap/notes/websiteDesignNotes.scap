@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="315DD6BD-773A-4E3D-A521-11C6A386BC6F" Version="1.2">
+   <Notes>
+      <Note ID="0" FontSize="12" Position="19.5,32.1" Width="146.056">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>facebook has its “about us” section in a side-bar</String>
+         <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
+      </Note>
+      <Note ID="2" FontSize="12" Position="239.7,44.6" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>they put a pop up menu in a string that holds the tabs “about”, “careers”, “developers” and “help”</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note ID="1" FontSize="12" Position="19.5,107.1" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Amazon has 2 about us sections in their footer. Between these sections are 3 clickables. Under the second there is a 4th section for privacy related info..</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note ID="3" FontSize="12" Position="426.4,38.8" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>inspector imposes on facebook images when the browser is at its minimum width.</String>
+      </Note>
+      <Note ID="4" FontSize="12" Position="82.2,270.8" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Amazon and facebook both keep their navigation bar present no matter where the use is in their web-application(less so with facebook; facebook either eliminates the nav-bar in some tabs or changes the nav-bar into one on-theme with that section(like saved items holding collections).</String>
+      </Note>
+   </Notes>
+   <NoteStyles>
+      <Style AffectTextColor="No" Name="Bubble (Pink)" AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" AffectFade="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectFontStyle="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectTextColor="No" Name="Bubble (Blue)" AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" AffectFade="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectFontStyle="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectTextColor="Yes" Name="Red Text" AffectAlignment="No" AffectSize="No" AffectNoteBody="No" AffectFade="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectFontStyle="No" AffectSticky="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectTextColor="No" Name="Title Text" AffectAlignment="Yes" AffectSize="No" AffectNoteBody="No" AffectFade="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectFontStyle="Yes" AffectSticky="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectTextColor="No" Name="Bubble (Yellow)" AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" AffectFade="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectFontStyle="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectTextColor="No" Name="Bubble (Green)" AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" AffectFade="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectFontStyle="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectTextColor="No" Name="Bubble (Red)" AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" AffectFade="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectFontStyle="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings Orientation="Portrait" HorizontalPagination="Clip" VerticallyCentered="Yes" PagesDown="1" LeftMargin="12.000000" HorizontallyCentered="Yes" TopMargin="12.000000" VerticalPagination="Auto" PaperType="na-letter" PagesAcross="1" RightMargin="12.000000" PaperSize="-1.000000,-1.000000" Collates="Yes" BottomMargin="12.000000" ScaleFactor="1.000000"/>
+</ScappleDocument>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="265E39AA-B8DE-430A-9A46-EAA4872ACBDA">
+   <Notes>
+      <Note Position="20.3,7.9" FontSize="12" Width="156.25" ID="0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>web browser: a piece of software used to display webpages. A webbroser pulls information from webservers and displays them. HTML, CSS and javascript are used to format the information in a more presentable way.</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Position="13.3,223.5" FontSize="12" Width="156.25" ID="1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>web server: a web server could be described as an end-point in an internet system. Web servers are hosted on computers in buildings owned by web servers owner, or in server farms owned by cloud computing corporations(or private institutions). Web servers receive requests from web-browsers in the form of http requests. Http request are represented by registered domain names.</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>0-1</AutoFit>
+   <NoteStyles>
+      <Style AffectFade="No" Name="Bubble (Pink)" AffectFontStyle="No" AffectAlignment="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectNoteBody="Yes" AffectSize="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectFade="No" Name="Bubble (Red)" AffectFontStyle="No" AffectAlignment="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectNoteBody="Yes" AffectSize="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectFade="No" Name="Bubble (Green)" AffectFontStyle="No" AffectAlignment="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectNoteBody="Yes" AffectSize="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectFade="No" Name="Bubble (Yellow)" AffectFontStyle="No" AffectAlignment="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectNoteBody="Yes" AffectSize="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectFade="No" Name="Red Text" AffectFontStyle="No" AffectAlignment="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectNoteBody="No" AffectSize="No" AffectSticky="No" AffectTextColor="Yes">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectFade="No" Name="Title Text" AffectFontStyle="Yes" AffectAlignment="Yes" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectNoteBody="No" AffectSize="No" AffectSticky="No" AffectTextColor="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectFade="No" Name="Bubble (Blue)" AffectFontStyle="No" AffectAlignment="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectNoteBody="Yes" AffectSize="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings VerticallyCentered="Yes" PaperType="na-letter" PagesDown="1" HorizontalPagination="Clip" PagesAcross="1" PaperSize="-1.000000,-1.000000" Orientation="Portrait" RightMargin="12.000000" VerticalPagination="Auto" ScaleFactor="1.000000" BottomMargin="12.000000" TopMargin="12.000000" Collates="Yes" LeftMargin="12.000000" HorizontallyCentered="Yes"/>
+</ScappleDocument>

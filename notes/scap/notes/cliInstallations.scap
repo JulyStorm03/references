@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="D68F9A9D-4EAB-4143-925D-C4C0C8C3EFEA" Version="1.2">
+   <Notes>
+      <Note ID="0" Position="13.3,0.0" Width="33.2031" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>cpp</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note ID="1" Position="13.3,60.2" Width="156.25" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://code.visualstudio.com/" Underline="Yes">5,30</FormatRange>
+         </Formatting>
+         <String>vsc:
+https://code.visualstudio.com/</String>
+         <ConnectedNoteIDs>0, 2</ConnectedNoteIDs>
+      </Note>
+      <Note ID="2" Position="13.3,150.0" Width="156.25" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://github.com/msys2/msys2-installer/releases/download/2024-01-13/msys2-x86_64-20240113.exe" Underline="Yes">6,95</FormatRange>
+         </Formatting>
+         <String>msys:
+https://github.com/msys2/msys2-installer/releases/download/2024-01-13/msys2-x86_64-20240113.exe</String>
+         <ConnectedNoteIDs>1, 3</ConnectedNoteIDs>
+      </Note>
+      <Note ID="3" Position="10.2,269.6" Width="156.25" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>start > edit system environment variables > environment variables(bottom right) > user variables > path > edit > copy and paste: </String>
+         <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
+      </Note>
+      <Note ID="5" Position="25.5,567.9" Width="156.25" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>gcc stands for GNU compiler collection.
+
+GDB stands for GNU dubugger.</String>
+      </Note>
+      <Note ID="4" Position="10.2,404.0" Width="156.25" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>check versions of gcc and g++, then configure vsc debugger to utilize gdb.</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>0</AutoFit>
+   <NoteStyles>
+      <Style ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectFontStyle="No" AffectSize="No" AffectNoteBody="Yes" Name="Bubble (Green)" AffectFade="No" AffectAlignment="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectFontStyle="No" AffectSize="No" AffectNoteBody="Yes" Name="Bubble (Yellow)" AffectFade="No" AffectAlignment="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectFontStyle="No" AffectSize="No" AffectNoteBody="Yes" Name="Bubble (Pink)" AffectFade="No" AffectAlignment="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectFontStyle="No" AffectSize="No" AffectNoteBody="Yes" Name="Bubble (Red)" AffectFade="No" AffectAlignment="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectFontStyle="No" AffectSize="No" AffectNoteBody="Yes" Name="Bubble (Blue)" AffectFade="No" AffectAlignment="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectFontStyle="No" AffectSize="No" AffectNoteBody="No" Name="Red Text" AffectFade="No" AffectAlignment="No" AffectSticky="No" AffectTextColor="Yes">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectFontStyle="Yes" AffectSize="No" AffectNoteBody="No" Name="Title Text" AffectFade="No" AffectAlignment="Yes" AffectSticky="No" AffectTextColor="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings PaperSize="-1.000000,-1.000000" TopMargin="12.000000" PaperType="na-letter" Orientation="Portrait" PagesDown="1" RightMargin="12.000000" ScaleFactor="1.000000" HorizontalPagination="Clip" VerticallyCentered="Yes" PagesAcross="1" LeftMargin="12.000000" Collates="Yes" BottomMargin="12.000000" HorizontallyCentered="Yes" VerticalPagination="Auto"/>
+</ScappleDocument>

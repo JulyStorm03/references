@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="AA25AAEB-56C2-4479-A0FF-D23CFBDDBAA8">
+   <Notes>
+      <Note FontSize="12" Position="77.3,107.6" ID="0" Width="451.563">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://www.techtarget.com/whatis/definition/script" Underline="Yes">24,6</FormatRange>
+            <FormatRange Link="https://www.techtarget.com/searchwindowsserver/definition/command" Underline="Yes">48,8</FormatRange>
+         </Formatting>
+         <String>A batch file(.bat) is a script file that stores commands to be executed in a serial order. </String>
+         <ConnectedNoteIDs>1, 3</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="77.3,167.7" ID="1" Width="217.969">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">33,17</FormatRange>
+         </Formatting>
+         <String> It helps automate routine tasks without requiring user input or intervention</String>
+         <ConnectedNoteIDs>0, 2</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="77.3,257.6" ID="2" Width="217.969">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://www.techtarget.com/searchsoftwarequality/definition/program" Underline="Yes">56,8</FormatRange>
+         </Formatting>
+         <String>Some common applications of batch files include loading programs, running multiple processes or performing repetitive actions in a sequence in the system</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="198.1,27.6" ID="3" Width="212.283">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Jagged" Weight="1"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://www.techtarget.com/searchwindowsserver/definition/batch-file" Underline="Yes">0,68</FormatRange>
+         </Formatting>
+         <String>https://www.techtarget.com/searchwindowsserver/definition/batch-file</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <NoteStyles>
+      <Style AffectSticky="No" AffectFontStyle="No" Name="Bubble (Pink)" AffectSize="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFontStyle="Yes" Name="Title Text" AffectSize="No" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectSticky="No" AffectFontStyle="No" Name="Bubble (Blue)" AffectSize="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFontStyle="No" Name="Bubble (Green)" AffectSize="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFontStyle="No" Name="Red Text" AffectSize="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectSticky="No" AffectFontStyle="No" Name="Bubble (Red)" AffectSize="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFontStyle="No" Name="Bubble (Yellow)" AffectSize="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings TopMargin="12.000000" PaperSize="-1.000000,-1.000000" VerticallyCentered="Yes" BottomMargin="12.000000" Orientation="Portrait" LeftMargin="12.000000" PagesAcross="1" HorizontalPagination="Clip" HorizontallyCentered="Yes" PagesDown="1" VerticalPagination="Auto" PaperType="na-letter" Collates="Yes" RightMargin="12.000000" ScaleFactor="1.000000"/>
+</ScappleDocument>

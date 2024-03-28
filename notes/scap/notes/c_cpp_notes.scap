@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="694821AE-63BB-4C39-BC45-F29108C43A4B" Version="1.2">
+   <Notes>
+      <Note ID="2" Position="454.2,96.7" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>printf is similiar to pythons f string. It can detect %d, %c, %s, %f, etc</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note ID="0" Position="447.9,189.7" FontSize="12" Width="351.563">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>format specifiers:
+
+%d: Represents a signed decimal integer.
+
+%i: Similar to %d, but it can interpret numeric input in various formats, such as octal or hexadecimal.
+
+%u: Represents an unsigned decimal integer.
+
+%f: Represents a floating-point number.
+
+%e: Represents a floating-point number in scientific (exponential) notation.
+
+%s: Represents a string of characters.
+
+%c: Represents a single character.
+
+%p: Represents a memory address in hexadecimal format.
+
+example code:
+
+value = 42
+formatted_string = "The answer is: %d" // value
+print(formatted_string)  # Outputs: The answer is: 42</String>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+      </Note>
+      <Note ID="1" Position="808.0,650.6" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>to create a multi-page application, use the fram class</String>
+      </Note>
+      <Note ID="3" Position="18.2,56.4" FontSize="12" Width="178.617">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>to create a multi-page application, use the frame class:
+Windows.UI.Xaml.Controls</String>
+      </Note>
+   </Notes>
+   <NoteStyles>
+      <Style ID="40798A91-008B-45DC-94A6-E3BA82350C5D" Name="Bubble (Blue)" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectSticky="No" AffectAlignment="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" Name="Red Text" AffectTextColor="Yes" AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectSticky="No" AffectAlignment="No" AffectNoteBody="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style ID="3EE3090C-963A-4993-86B3-0FAB00468188" Name="Bubble (Red)" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectSticky="No" AffectAlignment="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" Name="Bubble (Pink)" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectSticky="No" AffectAlignment="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" Name="Title Text" AffectTextColor="No" AffectFontStyle="Yes" AffectSize="No" AffectFade="No" AffectSticky="No" AffectAlignment="Yes" AffectNoteBody="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" Name="Bubble (Yellow)" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectSticky="No" AffectAlignment="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" Name="Bubble (Green)" AffectTextColor="No" AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectSticky="No" AffectAlignment="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings Orientation="Portrait" VerticallyCentered="Yes" ScaleFactor="1.000000" BottomMargin="12.000000" Collates="Yes" PagesAcross="1" RightMargin="12.000000" TopMargin="12.000000" HorizontallyCentered="Yes" PaperType="na-letter" PagesDown="1" HorizontalPagination="Clip" PaperSize="-1.000000,-1.000000" VerticalPagination="Auto" LeftMargin="12.000000"/>
+</ScappleDocument>

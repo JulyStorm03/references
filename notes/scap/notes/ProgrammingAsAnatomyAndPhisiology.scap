@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="2BE87F29-B7DE-40CA-8BA8-7D11B3A2CBA5" Version="1.2">
+   <Notes>
+      <Note Width="73.8281" FontSize="12" ID="0" Position="75.0,22.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Square"/>
+         </Appearance>
+         <String>physiology</String>
+      </Note>
+      <Note Width="112.891" FontSize="12" ID="1" Position="314.1,85.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>circulatory system</String>
+      </Note>
+      <Note Width="100.391" FontSize="12" ID="2" Position="315.6,139.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>nervous system</String>
+      </Note>
+      <Note Width="123.047" FontSize="12" ID="3" Position="84.4,207.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Integumentary(skin)</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="5" Position="76.6,328.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>3, 6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="6" Position="75.0,383.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>5, 7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="94.1406" FontSize="12" ID="7" Position="75.0,443.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>urinary system</String>
+         <ConnectedNoteIDs>6, 8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="8" Position="208.2,443.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>garbage collector: a mechanism for reclaiming unused memory. Programming languages like cpp, rust</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="112.109" FontSize="12" ID="9" Position="535.9,382.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>compilation mode</String>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="10" Position="500.8,439.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>constrained devices(embedded devices)</String>
+      </Note>
+      <Note Width="58.2031" FontSize="12" ID="11" Position="460.2,516.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>libraries</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+      </Note>
+      <Note Width="55.8594" FontSize="12" ID="12" Position="460.2,576.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>classes</String>
+         <ConnectedNoteIDs>11, 13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="13" Position="460.2,636.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+      </Note>
+      <Note Width="100.391" FontSize="12" ID="4" Position="310.9,191.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>immune system</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
+      </Note>
+      <Note Width="91.0156" FontSize="12" ID="14" Position="450.4,191.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>cyber-security</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>0-4, 7-9, 11-12, 14</AutoFit>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectNoteBody="Yes" AffectTextColor="No" AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" Name="Bubble (Green)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectNoteBody="Yes" AffectTextColor="No" AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" Name="Bubble (Yellow)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectNoteBody="Yes" AffectTextColor="No" AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" Name="Bubble (Red)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectNoteBody="No" AffectTextColor="No" AffectAlignment="Yes" AffectSticky="No" AffectSize="No" AffectFade="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" Name="Title Text">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectNoteBody="Yes" AffectTextColor="No" AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" Name="Bubble (Blue)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectNoteBody="Yes" AffectTextColor="No" AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" Name="Bubble (Pink)">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectNoteBody="No" AffectTextColor="Yes" AffectAlignment="No" AffectSticky="No" AffectSize="No" AffectFade="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" Name="Red Text">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings BottomMargin="12.000000" VerticalPagination="Auto" HorizontallyCentered="Yes" HorizontalPagination="Clip" RightMargin="12.000000" ScaleFactor="1.000000" Orientation="Portrait" LeftMargin="12.000000" VerticallyCentered="Yes" PagesDown="1" TopMargin="12.000000" PagesAcross="1" PaperSize="-1.000000,-1.000000" PaperType="na-letter" Collates="Yes"/>
+</ScappleDocument>

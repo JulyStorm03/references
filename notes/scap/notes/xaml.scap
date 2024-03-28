@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="00EE1649-C56B-404D-9903-7EB4030D2257">
+   <Notes>
+      <Note Position="25.8,25.0" Width="442.188" ID="0" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Underline="Yes" Link="http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot; ">58,58</FormatRange>
+            <FormatRange Underline="Yes" Link="http://schemas.microsoft.com/winfx/2006/xaml&quot; ">134,45</FormatRange>
+         </Formatting>
+         <String>&lt;Window x:Class="YourNamespace.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Your Application" Height="450" Width="800"
+        Background="LightBlue"> &lt;!-- Set Background here →
+
+    &lt;Grid>
+        &lt;!-- Your application content here -->
+    &lt;/Grid>
+
+&lt;/Window>
+</String>
+      </Note>
+   </Notes>
+   <NoteStyles>
+      <Style AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectFontStyle="No" Name="Bubble (Red)" AffectFade="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectFontStyle="No" Name="Bubble (Pink)" AffectFade="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectFontStyle="No" Name="Bubble (Blue)" AffectFade="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectFontStyle="No" Name="Bubble (Yellow)" AffectFade="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSize="No" AffectNoteBody="Yes" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectFontStyle="No" Name="Bubble (Green)" AffectFade="No" AffectSticky="No" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectAlignment="No" AffectSize="No" AffectNoteBody="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectFontStyle="No" Name="Red Text" AffectFade="No" AffectSticky="No" AffectTextColor="Yes">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectAlignment="Yes" AffectSize="No" AffectNoteBody="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectFontStyle="Yes" Name="Title Text" AffectFade="No" AffectSticky="No" AffectTextColor="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings BottomMargin="12.000000" PaperType="na-letter" VerticalPagination="Auto" ScaleFactor="1.000000" VerticallyCentered="Yes" HorizontallyCentered="Yes" PagesDown="1" RightMargin="12.000000" Orientation="Portrait" HorizontalPagination="Clip" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" TopMargin="12.000000" PagesAcross="1"/>
+</ScappleDocument>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="0769DAA8-BFB4-40AB-B133-FC3B0DE8F5D7" Version="1.2">
+   <Notes>
+      <Note ID="0" Width="156.25" FontSize="12" Position="207.1,8.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>http/1 multiplexing:
+ the merging of multiple client requests into one, while demultiplexing is the reversal of this event.
+
+</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note ID="1" Width="156.25" FontSize="12" Position="396.6,39.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note ID="2" Width="51.1719" FontSize="12" Position="18.9,42.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>http1.1</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note ID="3" Width="41.0156" FontSize="12" Position="22.5,101.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>http2</String>
+         <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
+      </Note>
+      <Note ID="4" Width="41.0156" FontSize="12" Position="22.5,161.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>http3</String>
+         <ConnectedNoteIDs>3, 5</ConnectedNoteIDs>
+      </Note>
+      <Note ID="5" Width="79.2969" FontSize="12" Position="116.8,163.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>intoroduced</String>
+         <ConnectedNoteIDs>4, 7, 9</ConnectedNoteIDs>
+      </Note>
+      <Note ID="6" Width="57.4219" FontSize="12" Position="205.6,277.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>TLS 1.3</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note ID="7" Width="44.9219" FontSize="12" Position="134.5,277.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>QUIC</String>
+         <ConnectedNoteIDs>5-6, 8</ConnectedNoteIDs>
+      </Note>
+      <Note ID="8" Width="41.0156" FontSize="12" Position="134.5,337.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>UDP</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note ID="9" Width="156.25" FontSize="12" Position="258.8,145.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>Instead of running on TCP like previous versions, heep </String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>2-8</AutoFit>
+   <NoteStyles>
+      <Style Name="Bubble (Green)" AffectFontStyle="No" AffectAlignment="No" AffectSize="No" AffectSticky="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style Name="Bubble (Pink)" AffectFontStyle="No" AffectAlignment="No" AffectSize="No" AffectSticky="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style Name="Title Text" AffectFontStyle="Yes" AffectAlignment="Yes" AffectSize="No" AffectSticky="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style Name="Bubble (Yellow)" AffectFontStyle="No" AffectAlignment="No" AffectSize="No" AffectSticky="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style Name="Red Text" AffectFontStyle="No" AffectAlignment="No" AffectSize="No" AffectSticky="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style Name="Bubble (Blue)" AffectFontStyle="No" AffectAlignment="No" AffectSize="No" AffectSticky="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style Name="Bubble (Red)" AffectFontStyle="No" AffectAlignment="No" AffectSize="No" AffectSticky="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings HorizontallyCentered="Yes" LeftMargin="12.000000" RightMargin="12.000000" ScaleFactor="1.000000" PagesDown="1" Orientation="Portrait" VerticalPagination="Auto" Collates="Yes" BottomMargin="12.000000" HorizontalPagination="Clip" PaperType="na-letter" TopMargin="12.000000" PaperSize="-1.000000,-1.000000" VerticallyCentered="Yes" PagesAcross="1"/>
+</ScappleDocument>

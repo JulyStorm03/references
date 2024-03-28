@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="0FA7C2D9-2705-4C16-A05B-CDF855DB03B7">
+   <Notes>
+      <Note ID="0" Position="32.0,29.7" Width="35.5469" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>GUI</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note ID="1" Position="32.0,89.9" Width="46.4844" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>imGui</String>
+         <ConnectedNoteIDs>0, 2-3</ConnectedNoteIDs>
+      </Note>
+      <Note ID="2" Position="32.0,150.0" Width="37.8906" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>tauri</String>
+         <ConnectedNoteIDs>1, 4-5</ConnectedNoteIDs>
+      </Note>
+      <Note ID="3" Position="117.6,89.9" Width="77.7344" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>cpp gui tool</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note ID="4" Position="109.0,150.0" Width="138.672" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>web framework for rust</String>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+      </Note>
+      <Note ID="5" Position="32.0,210.2" Width="156.25" FontSize="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.0 0.0 0.0</Fill>
+            <Border Style="Rounded" Weight="1"/>
+         </Appearance>
+         <String>New Note</String>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>0-4</AutoFit>
+   <NoteStyles>
+      <Style AffectSticky="No" AffectFade="No" ID="D94AC512-C9F4-42EF-A2B3-17B1A3C902E3" Name="Bubble (Green)" AffectFontStyle="No" AffectSize="No" AffectAlignment="No" AffectNoteBody="Yes" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFade="No" ID="6B473E03-A7BE-4D91-9CE3-BB4FF247F7A6" Name="Bubble (Yellow)" AffectFontStyle="No" AffectSize="No" AffectAlignment="No" AffectNoteBody="Yes" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFade="No" ID="3EE3090C-963A-4993-86B3-0FAB00468188" Name="Bubble (Red)" AffectFontStyle="No" AffectSize="No" AffectAlignment="No" AffectNoteBody="Yes" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFade="No" ID="40798A91-008B-45DC-94A6-E3BA82350C5D" Name="Bubble (Blue)" AffectFontStyle="No" AffectSize="No" AffectAlignment="No" AffectNoteBody="Yes" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFade="No" ID="F94443D4-8DC6-43C0-8F55-75C3C7254AAB" Name="Bubble (Pink)" AffectFontStyle="No" AffectSize="No" AffectAlignment="No" AffectNoteBody="Yes" AffectTextColor="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectSticky="No" AffectFade="No" ID="668E368D-31FD-4675-8F7B-1C21AD57FBE3" Name="Title Text" AffectFontStyle="Yes" AffectSize="No" AffectAlignment="Yes" AffectNoteBody="No" AffectTextColor="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectSticky="No" AffectFade="No" ID="C691B79E-FCB3-45E4-A994-23B3BA14F934" Name="Red Text" AffectFontStyle="No" AffectSize="No" AffectAlignment="No" AffectNoteBody="No" AffectTextColor="Yes">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>0.0 0.0 0.0</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings HorizontallyCentered="Yes" TopMargin="12.000000" Collates="Yes" Orientation="Portrait" HorizontalPagination="Clip" BottomMargin="12.000000" LeftMargin="12.000000" PaperSize="-1.000000,-1.000000" VerticallyCentered="Yes" ScaleFactor="1.000000" PagesDown="1" PagesAcross="1" VerticalPagination="Auto" RightMargin="12.000000" PaperType="na-letter"/>
+</ScappleDocument>
